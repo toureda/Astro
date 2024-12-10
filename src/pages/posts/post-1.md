@@ -22,6 +22,6 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 3. **Creación de publicaciones**: ¡Esta es mi primera publicación! ¡Ahora tengo páginas de Astro y publicaciónes en Markdown!
 
-## Próximos paso s
+## Próximos pasos
 
-Terminaré el tutorial de Astro, y luego seguiré añadiendo más publicaciones. Mira este espacio para más por venir.
+Terminaré el tutorial de Astro, y luego seguiré añadiendo más publicaciones.
