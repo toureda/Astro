@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: Mi cuarta entrada en el blog
-author: Alumno de Astro
+author: Felipe Nuñez Fonseca
 description: "Esta entrada aparecerá sola!"
 image:
   url: "https://docs.astro.build/default-og-image.png"
